@@ -13,13 +13,11 @@ const Counter = (props) => {
   const decrement = () => {
     setCount(count - 1);
     setButtonClicked(true);
-
   };
 
   return (
     <div>
       <h2>{props.title}</h2>
-
 
       <p>Count: {count}</p>
       <button onClick={increment}>Increment</button>
