@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+
+/* CSS for the assignment*/
+.assignment {
+  width: 800px;
+  height: 450px;
+  border: 2px solid #7bafc3;
+  margin: 0 auto;
+  padding: 20px;
+  }
+
+.header {
+  background-color: #2a5c3e;
+  padding: 10px;
+  text-align: center;
+  border: 3px solid #2f6d71;
+  }
+
+.sidenav {
+  background-color: #733ca3;
+  width: 120px;
+  margin-top: 1px;
+  height: 200px;
+  padding: 10px;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 3px solid #2f6d71;
+  }
+
+.main-content {
+  background-color: #733ca3;
+  padding: 10px;
+  width: 615px;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 3px solid #2f6d71;
+  }
+
+.footer {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: #2a5c3e;
+  border: 3px solid #2f6d71;
+  }
