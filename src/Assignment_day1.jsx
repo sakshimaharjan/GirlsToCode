@@ -17,9 +17,8 @@ const Sidenav = ({ title }) => (
 const MainContent = ({ title }) => (
   <main className="main-content">
     <h2>{title}</h2>
-    {/* Add your main content here */}
   </main>
-);
+); 
 
 const Footer = ({ title }) => (
   <footer className="footer">
