@@ -1,7 +1,7 @@
 import './App.css';
 import TodoApp from './Assignment_day2';
 // import Items from './Activity2';
-// import ClickCounter from './ClickCounter';
+// import Activity1 from './Activity1';
 // import Assignment from './Assignment_day1';
 // import ClassParent from './Class';
 // import Main from './Main';
@@ -15,8 +15,8 @@ function App() {
     {/* <Example/> */}
     {/* <Assignment/> */}
     {/* <UseStateWithObject/> */}
-    {/* <ClickCounter/> */}
     {/* <Items/> */}
+    {/* <Activity1/> */}
     <TodoApp/>
     </div>
   );

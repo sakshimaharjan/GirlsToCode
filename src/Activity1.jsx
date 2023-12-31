@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-const ClickCounter= () => {
+const Activity1= () => {
     const[count, setCount] = useState(0)
     const [buttonClicked, setButtonClicked] = useState(false);
 
@@ -28,4 +28,4 @@ const ClickCounter= () => {
     </div>
   )
 }
-export default ClickCounter;
+export default Activity1;
