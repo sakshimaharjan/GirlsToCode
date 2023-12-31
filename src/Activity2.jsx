@@ -6,7 +6,7 @@ const Items = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setFruits([...fruits, name]);
+    setFruits([...fruits, name]);     
     setName("");
   };
 
