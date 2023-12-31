@@ -25,7 +25,7 @@ const TodoApp = () => {
 
   return (
     <div>
-      <h1>Todo App</h1>
+      <h1>TO-DO App</h1>
       <div>
         <input
           type="text"
